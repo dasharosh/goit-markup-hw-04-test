@@ -438,11 +438,13 @@ img {
 
 .footer {
   background-color: #2f303a;
+
   padding: 60px 0;
+  display: flex;
 }
 
-.footer-blocks {
-  display: flex;
+.footer-contacts {
+  display: block;
 }
 
 .footer-logo,
